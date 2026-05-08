@@ -5,6 +5,8 @@ It supports both prefix commands and slash commands, interactive player controls
 
 ---
 
+Screen Short Demo 
+<img src="./Img/screen.png" />
 ## Features
 
 * Play music via song name or URL
