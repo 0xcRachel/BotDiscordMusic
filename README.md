@@ -5,7 +5,6 @@ It supports both prefix commands and slash commands, interactive player controls
 
 ---
 
-Screen Short Demo \n
 <img src="./Img/screen.png" />
 ## Features
 
